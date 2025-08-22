@@ -35,7 +35,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajGajjar&show_icons=true&theme=radical" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RajGajjar2911&show_icons=true&theme=radical" alt="github stats" />
 </p>
 
 <p align="center">
